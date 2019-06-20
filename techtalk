@@ -2,7 +2,6 @@
 <html>
 <body>
 <h1>Welcome to Azure Tech talk</h1>
-  <h1>Click below button to get Date and Time</h1>
 
 <button type="button"
 onclick="document.getElementById('demo').innerHTML = Date()">
